@@ -15,3 +15,4 @@
  - Try to avoid code duplication
  - Use paint, gimp, or something similar to figure out the sizes and colors
  - You can use any lorem ipsum generator for the texts, it is not necessary to have the same
+ - Don't worry about the position on the page, the element inner layout is the important
