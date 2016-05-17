@@ -8,6 +8,9 @@
  - Here are the assets:
    - Duck: ![duck](duck.png)
    - Pencil icon: ![pencil-icon](edit-icon.png)
+   - Name's font size: 24 pixels
+   - Other text: 14 pixels
+   - Font family: arial
  - Please commit an HTML and a CSS file as well
  - You can use any resource online, beside help from others
  - Think about the semantic responsibilities of the elements
