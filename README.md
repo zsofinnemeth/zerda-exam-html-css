@@ -13,8 +13,8 @@
 # Tasks
 
 ## 1. Build a design (~90 minutes) [10 points]
-Build the following profile card according to the design provided.   
-Follow the design as closely as possible.
+Build the following profile cards according to the design provided.   
+Follow the design as closely as possible.   
 Commit an HTML and a CSS file to this repository.
 ![design](exercise-1.png)
 
@@ -36,6 +36,7 @@ The task is accepted if:
   - The HTML considers semantic responsibilities [2p]
   - The code avoids code duplication [2p]
   - The CSS has meaningful and short selectors [2p]
+
 Extra points for if:
   - the result is centered on the page [2p]
 
