@@ -19,9 +19,9 @@ Commit an HTML and a CSS file to this repository.
 ![design](exercise-1.png)
 
 ### Assets
-  - John Duck: ![duck](duck.jpg)
-  - Jane Duck: ![duck](duck2.jpg)
-  - Pencil icon: ![pencil-icon](edit-icon.png)   
+John Duck | Jane Duck | Pencil icon
+--------- | --------- | -----------
+![duck](duck.jpg) | ![duck](duck2.jpg) | ![pencil-icon](edit-icon.png)   
 
 ### Other data
   - Name font size: 28 pixels
