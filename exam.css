@@ -1,0 +1,44 @@
+body{
+  font-family: Arial, sans-serif;
+}
+
+#container1{
+  clear: both;
+}
+
+.textbox{
+  float: left;
+  width: 370px;
+  height: 158px;
+  text-align: left;
+}
+
+
+h3{
+  font-size: 28px;
+}
+
+.duck{
+  float: left;
+  border-right: 10px solid rgb(85, 99, 146);
+  margin-right: 20px;
+}
+
+table{
+  display: inline;
+  font-size: 14px;
+}
+
+#pencil{
+  position: absolute;
+  left: 560px;
+  top: 160px;
+}
+
+
+#container2{
+  background-color: rgb(172, 184, 223);
+  position: absolute;
+  top: 230px;
+
+}
