@@ -80,8 +80,11 @@ Add your answer to this readme file, commit your changes to this repository.
   </body>
 </html>
 ```
-#### Your answer: [2p]
+#### Your answer:  [2p]
 
+The distance on the left side for both boxes is 20 pixels. The body adds nothing to this, as the margin and the padding are both set to zero.
+The yellow box is within the blue one, so the left side (absolute) distances should be added.
+The answer is 40 px.
 
 ## 3. Explain concepts (~15 minutes) [4 points]
 Add your answer to this readme file, commit your changes to this repository.
@@ -90,6 +93,15 @@ Add your answer to this readme file, commit your changes to this repository.
 ### Explain the difference between `display: block` and `display: inline` in CSS! What is `display: inline-block`?
 #### Your answer: [2p]
 
+When we display an element as inline, it does not occupy the full available width.
+The block element covers all the available space (eg. when it's within the body, then this is the complete width of the body).
+If an element is displayed as inline block, then it is displayed inline but could have weight and width properties as well.
+
 
 ### What is the difference between a `<section>` and an `<article>` element? Name one good example of using an `<article>`.
 #### Your answer: [2p]
+
+The article tag is typically used for (main) text parts of the page It contains independent, self-reliant pieces of text.
+The section tag is more similar to the div tag in use, it separates the various parts of the document thematically (like header, footer, chapter etc.).
+The contents under sections are more or less related to each other, while two or more articles not necessarily do so.
+Typically, the article tag could be above the section tag but not vice versa.
