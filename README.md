@@ -105,3 +105,4 @@ The article tag is typically used for (main) text parts of the page It contains 
 The section tag is more similar to the div tag in use, it separates the various parts of the document thematically (like header, footer, chapter etc.).
 The contents under sections are more or less related to each other, while two or more articles not necessarily do so.
 Typically, the article tag could be above the section tag but not vice versa.
+A typial article tag use is for the main content and the comment section.
